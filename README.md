@@ -2,7 +2,7 @@
 
 This repo contains notes and highlights on scientific papers that I read.
 
-**Highlighting Color Meanings:**
+## Highlighting Color Meanings:
 
 > [!WARNING]
 > Yellow - the most important concepts.
@@ -14,7 +14,7 @@ This repo contains notes and highlights on scientific papers that I read.
 > Green - illustrative examples.
 
 <details open>
-<summary><b>CV</b></summary>
+<summary><h3>Computer Vision</h3></summary>
 
 |     Tags     | Highlights                      | Title                                                           | Link                                      |
 | :----------: | ------------------------------- | --------------------------------------------------------------- | ----------------------------------------- |
@@ -23,7 +23,7 @@ This repo contains notes and highlights on scientific papers that I read.
 </details>
 
 <details open>
-<summary><b>NLP</b></summary>
+<summary><h3>Natural Language Processing</h3></summary>
 
 |    Tags    | Highlights                                  | Title                                                                                                    | Link                                                                          |
 | :--------: | ------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -38,7 +38,7 @@ This repo contains notes and highlights on scientific papers that I read.
 </details>
 
 <details open>
-<summary><b>RL</b></summary>
+<summary><h3>Reinforcement Learning</h3></summary>
 
 |  Tags   | Highlights                                      | Title                                                              | Link                                                  |
 | :-----: | ----------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- |
@@ -48,11 +48,11 @@ This repo contains notes and highlights on scientific papers that I read.
 </details>
 
 <details open>
-<summary><b>Other</b></summary>
+<summary><h3>Domain Specific</h3></summary>
 
 | Tags | Highlights                            | Title                                                 | Link                                                         |
 | :--: | ------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
-|      | [Life2Vec](./highlights/Life2Vec.pdf) | Using sequences of life-events to predict human lives | [nature](https://www.nature.com/articles/s43588-023-00573-5) |
+|  People    | [Life2Vec](./highlights/Life2Vec.pdf) | Using sequences of life-events to predict human lives | [nature](https://www.nature.com/articles/s43588-023-00573-5) |
 
 </details>
 
