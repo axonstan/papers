@@ -2,13 +2,18 @@
 
 This repo contains notes and highlights on scientific papers that I read.
 
-**Colors:**
+**Highlighting Color Meanings:**
 
-- yellow - the most important
-- red - tough but useful
-- green - examples
+> [!WARNING]
+> Yellow - the most important concepts.
 
-<details>
+> [!CAUTION]
+> Red - tough and meaningfull.
+
+> [!TIP]
+> Green - illustrative examples.
+
+<details open>
 <summary><b>CV</b></summary>
 
 |     Tags     | Highlights                      | Title                                                           | Link                                      |
