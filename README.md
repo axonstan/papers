@@ -25,8 +25,6 @@ This repo contains notes and highlights on scientific papers that I read.
 <details open>
 <summary><h3>Computer Vision</h3></summary>
 
-Add year before link
-
 |     Tags     | Highlights                      | Title                                                           | Year | Link                                      |
 | :----------: | ------------------------------- | --------------------------------------------------------------- | :--: | ----------------------------------------- |
 | Segmentation | [U-Net](./highlights/U-Net.pdf) | U-Net: Convolutional Networks for Biomedical Image Segmentation | 2015 | [arxiv](https://arxiv.org/abs/1505.04597) |
