@@ -14,6 +14,15 @@ This repo contains notes and highlights on scientific papers that I read.
 > Green - illustrative examples.
 
 <details open>
+<summary><h3>Big Data</h3></summary>
+
+| Tags | Highlights                              | Title                                                   | Link                                                                                                                 |
+| :--: | --------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| DNP  | [MapReduce](./highlights/MapReduce.pdf) | MapReduce: Simplified Data Processing on Large Clusters | [research.google](https://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf) |
+
+</details>
+
+<details open>
 <summary><h3>Computer Vision</h3></summary>
 
 |     Tags     | Highlights                      | Title                                                           | Link                                      |
