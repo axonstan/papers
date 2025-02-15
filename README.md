@@ -57,7 +57,7 @@ This repo contains notes and highlights on scientific papers that I read.
 </details>
 
 <details open>
-<summary><b>Interpretability</b></summary>
+<summary><h3>Interpretability</h3></summary>
 
 |  Tags  | Highlights                                        | Title                                                | Year | Link                                        |
 | :----: | ------------------------------------------------- | ---------------------------------------------------- | :--: | ------------------------------------------- |
@@ -77,7 +77,7 @@ This repo contains notes and highlights on scientific papers that I read.
 
 <!--
 <details>
-<summary><b>...</b></summary>
+<summary><h3>...</h3></summary>
 
 | Tags | Highlights | Title | Year | Link |
 | :--: | ---------- | ----- | :--: | ---- |
