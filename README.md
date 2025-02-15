@@ -56,12 +56,13 @@ This repo contains notes and highlights on scientific papers that I read.
 
 </details>
 
-<details>
+<details open>
 <summary><b>Interpretability</b></summary>
 
-| Tags | Highlights                                        | Title                                        | Year | Link                                        |
-| :--: | ------------------------------------------------- | -------------------------------------------- | :--: | ------------------------------------------- |
-| Loss | [Harmonic Loss](./highlights/Harmonic%20Loss.pdf) | Harmonic Loss Trains Interpretable AI Models | 2025 | [arxiv](https://arxiv.org/abs/2502.01628v1) |
+|  Tags  | Highlights                                        | Title                                                | Year | Link                                        |
+| :----: | ------------------------------------------------- | ---------------------------------------------------- | :--: | ------------------------------------------- |
+| Global | [SHAP](./highlights/SHAP.pdf)                     | A Unified Approach to Interpreting Model Predictions | 2017 | [arxiv](https://arxiv.org/abs/1705.07874)   |
+|  Loss  | [Harmonic Loss](./highlights/Harmonic%20Loss.pdf) | Harmonic Loss Trains Interpretable AI Models         | 2025 | [arxiv](https://arxiv.org/abs/2502.01628v1) |
 
 </details>
 
@@ -79,8 +80,21 @@ This repo contains notes and highlights on scientific papers that I read.
 <summary><b>...</b></summary>
 
 | Tags | Highlights | Title | Year | Link |
-| :--: | ---------- | ----- | :---: |---- |
+| :--: | ---------- | ----- | :--: | ---- |
+|      |            |       |      |      |
 
 </details>
 -->
+
+---
+
+<details>
+<summary><b>Glossary</b></summary>
+
+- DNP - Distributed and Network Programming
+- cIE - closed Information Extraction
+- LLM - Large Language Model
+- RAG - Retrieval Augmented Generation
+
+</details>
 
