@@ -4,14 +4,11 @@ This repo contains notes and highlights on scientific papers that I read.
 
 ## Highlighting Color Meanings:
 
-> [!WARNING]
-> Yellow - the most important concepts.
+> [![](https://img.shields.io/badge/yellow-yellow?style=for-the-badge)]() - the most important concepts.
 
-> [!CAUTION]
-> Red - tough and meaningfull.
+> [![](https://img.shields.io/badge/red-red?style=for-the-badge)]() - tough and meaningfull.
 
-> [!TIP]
-> Green - illustrative examples.
+> [![](https://img.shields.io/badge/green-green?style=for-the-badge)]() - illustrative examples.
 
 <details open>
 <summary><h3>Big Data</h3></summary>
