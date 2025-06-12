@@ -67,9 +67,10 @@ This repo contains notes and highlights on scientific papers that I read.
 <details open>
 <summary><h3>Domain Specific</h3></summary>
 
-|  Tags  | Highlights                            | Title                                                 | Year | Link                                                         |
-| :----: | ------------------------------------- | ----------------------------------------------------- | :--: | ------------------------------------------------------------ |
-| People | [Life2Vec](./highlights/Life2Vec.pdf) | Using sequences of life-events to predict human lives | 2023 | [nature](https://www.nature.com/articles/s43588-023-00573-5) |
+|  Tags  | Highlights                            | Title                                                             | Year | Link                                                         |
+| :----: | ------------------------------------- | ----------------------------------------------------------------- | :--: | ------------------------------------------------------------ |
+| People | [Life2Vec](./highlights/Life2Vec.pdf) | Using sequences of life-events to predict human lives             | 2023 | [nature](https://www.nature.com/articles/s43588-023-00573-5) |
+|  CAD   | [cadrille](./highlights/cadrille.pdf) | Multi-modal CAD Reconstruction with Online Reinforcement Learning | 2025 | [arxiv](https://arxiv.org/abs/2505.22914)                    |
 
 </details>
 
