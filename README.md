@@ -60,6 +60,7 @@ This repo contains notes and highlights on scientific papers that I read.
 | :----: | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | :--: | ------------------------------------------- |
 | Global | [SHAP](./highlights/SHAP.pdf)                     | A Unified Approach to Interpreting Model Predictions                                                     | 2017 | [arxiv](https://arxiv.org/abs/1705.07874)   |
 | Global | [TCAV](./highlights/TCAV.pdf)                     | Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) | 2017 | [arxiv](https://arxiv.org/abs/1711.11279)   |
+|  SAE   | [Llama Scope](./highlights/Llama%20Scope.pdf)     | Llama Scope: Extracting Millions of Features from Llama-3.1-8B with Sparse Autoencoders                  | 2024 | [arxiv](https://arxiv.org/abs/2410.20526)   |
 |  Loss  | [Harmonic Loss](./highlights/Harmonic%20Loss.pdf) | Harmonic Loss Trains Interpretable AI Models                                                             | 2025 | [arxiv](https://arxiv.org/abs/2502.01628v1) |
 
 </details>
@@ -94,6 +95,7 @@ This repo contains notes and highlights on scientific papers that I read.
 - cIE - closed Information Extraction
 - LLM - Large Language Model
 - RAG - Retrieval Augmented Generation
+- SAE - Sparse AutoEncoder
 
 </details>
 
