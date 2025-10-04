@@ -11,6 +11,15 @@ This repo contains notes and highlights on scientific papers that I read.
 > [![](https://img.shields.io/badge/green-green?style=for-the-badge)]() - illustrative examples.
 
 <details open>
+<summary><h3>Time Series</h3></summary>
+
+|   Tags    | Highlights                          | Title                                                              | Year | Link                                        |
+| :-------: | ----------------------------------- | ------------------------------------------------------------------ | :--: | ------------------------------------------- |
+| Framework | [Tsururu](./highlights/Tsururu.pdf) | Tsururu: A Python-based Time Series Forecasting Strategies Library | 2025 | [arxiv](https://arxiv.org/abs/2509.15843v1) |
+
+</details>
+
+<details open>
 <summary><h3>Big Data</h3></summary>
 
 | Tags | Highlights                              | Title                                                   | Year | Link                                                                                                                 |
