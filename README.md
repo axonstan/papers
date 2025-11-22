@@ -53,6 +53,16 @@ This repo contains notes and highlights on scientific papers that I read.
 </details>
 
 <details open>
+<summary><h3>Insight Generation</h3></summary>
+
+| Tags | Highlights                                    | Title                                                                             | Year | Link                                      |
+| :--: | --------------------------------------------- | --------------------------------------------------------------------------------- | :--: | ----------------------------------------- |
+|      | [InsightPilot](./highlights/InsightPilot.pdf) | Demonstration of InsightPilot: An LLM-Empowered Automated Data Exploration System | 2023 | [arxiv](https://arxiv.org/abs/2304.00477) |
+|      | [HLI](./highlights/HLI.pdf)                   | An LLM-Based Approach for Insight Generation in Data Analysis                     | 2025 | [arxiv](https://arxiv.org/abs/2503.11664) |
+
+</details>
+
+<details open>
 <summary><h3>Reinforcement Learning</h3></summary>
 
 |  Tags   | Highlights                                      | Title                                                              | Year | Link                                                  |
